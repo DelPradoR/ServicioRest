@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "backenduser",
+    "password": "superpassword",
+    "database": "escuelaapi_db",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}

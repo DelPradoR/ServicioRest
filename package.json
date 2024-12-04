@@ -10,8 +10,10 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.21.1",
-    "mysql2": "^3.11.3",
-    "sequelize": "^6.37.4"
+    "json-web-token": "^3.2.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.11.5",
+    "sequelize": "^6.37.5"
   },
   "keywords": [],
   "description": ""
